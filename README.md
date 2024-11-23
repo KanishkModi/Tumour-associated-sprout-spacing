@@ -1,1 +1,1 @@
-The repo contains the research article which was partially reproduced and simulated as a part of course project for PH 549: Physics of Biological Systems taken under Course Instructor: Prof. Mithun Mitra.
+The repo contains the simulation code and the research article which was partially reproduced and simulated as a part of course project for PH 549: Physics of Biological Systems taken under Course Instructor: Prof. Mithun Mitra.
